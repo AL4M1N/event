@@ -1,6 +1,6 @@
 # Event Management Application Documentation
 
-**Sample Credentials**:
+**Test User Credentials**:
 - **Email**: techamin@gmail.com
 - **Password**: 297974
 
@@ -75,7 +75,7 @@ This Event Management Application allows users to manage events and attendees ef
 - The dashboard displays a welcome message and a menu with four items: Dashboard, Events, Attendees, and Logout.
 
 ### Events
-- Access the events page at `/events`.
+- Access the events page a `/events`.
 - Click the "+ Add Event" button to register a new event.
 - Events are displayed with pagination (2 per page).
 - Each event card includes:

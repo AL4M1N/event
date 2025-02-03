@@ -23,7 +23,7 @@ This Event Management Application allows users to manage events and attendees ef
 1. **Clone the Repository**: 
    Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/AL4M1N/event-management.git
+   git clone https://github.com/AL4M1N/event.git
    ```
 
 2. **Database Setup**:

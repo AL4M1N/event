@@ -263,7 +263,7 @@ class AttendeesController
             return;
         }
 
-        // Get the current attendees for the event
+        // Get the current attendees count for the event
         $currentAttendees = $this->attendeeModel->getEventAttendees($eventId);
         if (count($currentAttendees) >= $event['capacity']) {
             Helper::jsonResponse([

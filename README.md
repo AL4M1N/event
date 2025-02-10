@@ -1,4 +1,4 @@
-# Event Management Application Documentation
+# Event Management Application Documentation 
 
 **Test User Credentials**:
 - **Email**: techamin@gmail.com

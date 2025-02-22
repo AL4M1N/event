@@ -1,7 +1,7 @@
 # Event Management Application Documentation 
 
 **Test User Credentials**:
-- **Email**: techamin@gmail.com
+- **Email**: techamin90@gmail.com
 - **Password**: 297974
 
 ## Table of Contents
